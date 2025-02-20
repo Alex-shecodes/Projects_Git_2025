@@ -1,4 +1,5 @@
-#Number Guessing Game:
+# Project 1 - Beginner Friendly projects in Python
+# Number Guessing Game:
 #The computer generates a random number, and the user has to guess it 
 # within a set range, receiving hints about whether their guess is too high or too low. 
 
